@@ -1,0 +1,25 @@
+LIBRARY user32
+EXPORTS
+AdjustWindowRect
+BeginPaint
+ClientToScreen
+ClipCursor
+CreateWindowExW
+DefWindowProcW
+DispatchMessageW
+EndPaint
+GetClientRect
+GetRawInputData
+GetMessageW
+GetSystemMetrics
+InvalidateRect
+LoadCursorW
+MessageBoxW
+MsgWaitForMultipleObjectsEx
+PeekMessageW
+PostQuitMessage
+RegisterClassW
+RegisterRawInputDevices
+SetTimer
+ShowCursor
+TranslateMessage

@@ -1,0 +1,15 @@
+LIBRARY ntdll
+EXPORTS
+NtAllocateVirtualMemory
+NtClose
+NtCreateFile
+NtFreeVirtualMemory
+NtQueryInformationFile
+NtQuerySystemInformation
+NtReadFile
+NtWaitForSingleObject
+NtWriteFile
+RtlDosPathNameToNtPathName
+RtlExitUserProcess
+RtlFreeHeap
+RtlGetFullPathName

@@ -1,0 +1,20 @@
+LIBRARY kernel32
+EXPORTS
+CloseHandle
+CreateFileA
+CreateProcessW
+CreateThread
+GetEnvironmentVariableA
+GetExitCodeProcess
+GetModuleHandleW
+GetStdHandle
+QueryPerformanceCounter
+QueryPerformanceFrequency
+ReadFile
+SetEnvironmentVariableA
+SetFilePointerEx
+Sleep
+VirtualAlloc
+WaitForSingleObject
+WriteFile
+GetLastError

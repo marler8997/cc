@@ -1,0 +1,12 @@
+/ur/
+/out/
+/generated/
+
+/srcgen
+
+*.out
+*.exe
+*.pdb
+
+*.o
+*.obj
